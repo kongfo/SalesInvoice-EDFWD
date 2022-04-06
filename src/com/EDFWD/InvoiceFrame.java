@@ -473,7 +473,7 @@ public class InvoiceFrame extends javax.swing.JFrame implements ActionListener ,
             } catch (Exception ex) {
                 JOptionPane.showMessageDialog(this, "Error: " + ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
             }
-            JOptionPane.showMessageDialog(null, "Data Saved successfully");
+            JOptionPane.showMessageDialog(null, "Data Saved Successfully");
         }
 
        
