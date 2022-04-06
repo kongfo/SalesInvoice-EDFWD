@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SalesInvoice_EDFWD">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SalesInvoice_EDFWD.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
